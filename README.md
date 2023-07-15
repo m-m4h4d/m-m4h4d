@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @m-m4h4d
 - 👀 I’m skilled in Python, Java, C, C++ and Bash.
 - 🌱 I’m currently learning new technologies like affiliate marketing, SEO and Web development.
-- 💞️ I’m looking to work as a freelancer.
+- 💞️ I’m currently working as a freelancer.
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/muhammad-mahad-7ab38b250
 
 <!---
