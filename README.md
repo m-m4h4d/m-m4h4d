@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @m-m4h4d
 - 👀 I’m skilled in Python, Java, C/C++, and Web Technologies(HTML/CSS/JavaScript).
 - 🌱 I’m learning new technologies like Game Design and Content Writing.
-- 💞️ I’m currently working as a freelancer.
+- 💞️ I’m currently working as an Intern at HCI Expert PVT LTD.
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/muhammad-mahad-7ab38b250
 
 <!---
